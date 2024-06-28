@@ -1,4 +1,4 @@
-![image](https://github.com/MayraMoy/Fundamentos-profesionales-del-desarrollo-de-Software/assets/168094986/97c0ebeb-7fc7-41cc-ba75-ec65cf845816)# Fundamentos-profesionales-del-desarrollo-de-Software
+# Fundamentos-profesionales-del-desarrollo-de-Software
 Los invito a leer mi resumen del curso que hice gracias a Microsoft y LinkedIn llamado "Fundamentos profesionales del desarrollo de Software"
 
 
